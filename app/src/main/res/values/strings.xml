@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">RecyclerViewPractice</string>
+
+    <string-array name="name">
+        <item>Bulbul</item>
+        <item>Tamim</item>
+        <item>Riad</item>
+        <item>Bulbul</item>
+
+
+    </string-array>
+
+    <string-array name="email">
+        <item>bulbul@gmail.com</item>
+        <item>bulbul@gmail.com</item>
+        <item>bulbul@gmail.com</item>
+        <item>bulbul@gmail.com</item>
+
+    </string-array>
 </resources>

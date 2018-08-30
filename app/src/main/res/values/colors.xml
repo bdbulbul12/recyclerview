@@ -3,4 +3,5 @@
     <color name="colorPrimary">#9c27B0</color>
     <color name="colorPrimaryDark">#7B1FA2</color>
     <color name="colorAccent">#FF4081</color>
+    <color name="cardview_back">#ddd</color>
 </resources>
